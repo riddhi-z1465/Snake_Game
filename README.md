@@ -63,8 +63,9 @@ Snake_Game/
 ---
 
 ## ❤️ Credits
-Made with 🧡 by [Riddhi](https://github.com/riddhi-z1465/)
-Give it a ⭐ on GitHub — it helps others discover it and keeps me motivated to improve it!
+
+- Made with 🧡 by [Riddhi](https://github.com/riddhi-z1465/)
+- Give it a ⭐ on GitHub — it helps others discover it and keeps me motivated to improve it!
 
 ---
 
